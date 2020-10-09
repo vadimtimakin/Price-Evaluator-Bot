@@ -32,9 +32,28 @@ The entire code of the bot itself is located in the module [main.py](https://git
 
 The bot can process some commands in the message and images, but it ignores the rest.
 
-Setup and manual
+Setup
 ----------------
-I set up the bot via `@BotFather`, and there I got a unique token for my bot.
+I set up the bot via `@BotFather`, and there I got an unique token for my bot.
 Thanks to BotFather's capabilities, I was able to create a more comfortable environment for working with the bot. Here's what it looks like:
 
 ![alt text](https://github.com/t0efL/Price-Evaluator-Bot/blob/main/images/interface.jpg)
+
+**Before running my code, make sure that you get your own token from BotFather and specify it in the file main.py.**
+
+Deploy and additional files
+---------------------------
+As I already said above, we have our own server so we haven't done deploy on public server. If you want to create the same bot and deploy it on the server, but you don't have your own, check out my detailed tutorial [here](https://github.com/t0efL/Style-Transfer-Telegram-Bot). We've placed all the neсessary files for deploy on server (Procfile, requirements.txt, runtime.txt) in this repository, so you can take and use them for your deploy.
+
+Team
+--------
+- Vadim Timakin
+- Maksim Zhdanov
+- Fyodor Dobryansky
+- Yevhen Kravchenko
+- Vladislav Lebyodkin
+- Vyacheslav Chuev
+
+License
+----------
+This project is released under the [Apache 2.0 license](https://github.com/t0efL/Price-Evaluator-Bot/blob/main/LICENSE).
