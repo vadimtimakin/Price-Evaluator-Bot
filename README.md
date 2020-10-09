@@ -14,6 +14,10 @@ The Bot itself: `@PriceEvaluatorBot` (Telegram)
 
 It is possible that you found the bot by tag and found it not working. The reason most likely was that we stopped supporting the bot some time after it was created, so as not to waste the power of the server.
 
+Idea
+-----
+We hope that this bot might help to motivate people sell their clothes instead of throwing out them. We think that this technology would work well as built-in in of the online stores like Avito. There is a lot of ways to improve it but the base is created.
+
 Technology
 -------
 The bot is based on efficientnetb4. The weigths and the encoder we use in code are [here](https://drive.google.com/drive/folders/1mtsRFAt-K7MCR8En2qmsqSwjtti4RhAH?usp=sharing). You should download this folder and place it in your project repository avoiding changing name to use it. They are too large to place them here. We used the dataset from the [Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) Kaggle competition. The simple pipeline for training is [here](https://github.com/t0efL/Price-Evaluator-Bot).
