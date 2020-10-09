@@ -86,7 +86,7 @@ async def creator(message: types.Message):
     """Displays information about the bot's Creators."""
     link = 'https://github.com/t0efL/Price-Evaluator-Bot'
     await message.answer(text="I've been created as the project "
-                              "for hackaton by ODS." 
+                              "for hackathon by ODS." 
                               f"\nMy code is here: {link}."
                               "\nMy creators:"
                               "\n - Vadim Timakin,"
