@@ -3,7 +3,7 @@
 **Telegram bot that predicts the price of clothing by an image [ENG].**
 
 What is Price Evaluator Telegram Bot?
-------------------------------------------
+-----------------------------------------
 Price Evaluator Telegram Bot is the final project for the Hackathon by ODS.
 
 ![alt text](https://github.com/t0efL/Price-Evaluator-Bot/blob/main/images/ods.jpg)
